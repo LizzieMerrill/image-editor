@@ -1,1 +1,1 @@
-#image-editor
+In-class exercise in CS340: Software Design where we wrote typescript code to convert images into PPM images with various different effects the user can choose from, namely motion blur, inversion, grayscaling, and embossing.
